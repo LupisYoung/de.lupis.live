@@ -111,9 +111,9 @@ section img
     background-size: 300%;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    animation: animated_text 3s ease-in-out infinite;
-    -moz-animation: animated_text 3s ease-in-out infinite;
-    -webkit-animation: animated_text 3s ease-in-out infinite;
+    animation: animated_text 3s linear infinite;
+    -moz-animation: animated_text 3s linear infinite;
+    -webkit-animation: animated_text 3s linear infinite;
 
 }
 
